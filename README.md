@@ -41,6 +41,7 @@ Figure 5 — Temperature alteration for constant conversion rate
 
 ## Repository structure
 
+```text
 reactor-simulation/
 ├── README.md
 ├── LICENSE
@@ -62,8 +63,7 @@ reactor-simulation/
 │   ├── Conversion.png
 │   ├── mole_fraction.png
 │   └── temperature_and_pressure.png
-└── data/
-    └── .gitkeep
+```
 
 ### Requirements
 
