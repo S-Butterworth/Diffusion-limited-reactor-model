@@ -26,7 +26,6 @@ Figure 3 — Normalised concentration profile with the dead core marked
 ![Normalised concentration diffusion in catalyst](figures/Diffusion_T_500C_Day_0.png)
 
 *Radial concentration profiles for species A and B within the pellet at a representative high-temperature condition, showing the dead-core boundary (r_c) where species A is fully depleted.*
-Methodology
 
 Figure 4 — Conversion vs time on stream with diffusion effects
 
@@ -40,7 +39,7 @@ Figure 5 — Temperature alteration for constant conversion rate
 
 *Inlet temperature increase required to maintain target conversion as the catalyst deactivates, found via root-finding against the η(T,t) lookup table. Required temperature increase grows steadily as activity declines. Beyond a certain time-on-stream the target conversion becomes increasingly more costly due to the higher temperatures required, with the replacement interval being dependent on this.*
 
-## Repository strucutre
+## Repository structure
 
 reactor-simulation/
 ├── README.md
